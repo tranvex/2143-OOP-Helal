@@ -1,6 +1,6 @@
 ## A03 - Banner Page
 ### Yoseph Helal
-### Description: Simple Banner Page
+### Description:
 
 Simple banner page containing information pertaining to 2143-OOP
 
