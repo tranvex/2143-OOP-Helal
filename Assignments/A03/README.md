@@ -1,8 +1,8 @@
 ## A03 - Banner Page
 ### Yoseph Helal
-### Description: Simple banner page containing information pertaining to class
+### Description: Simple banner page
 
-This program implements a list data structure that links together nodes of integers. It does more stuff, but we don't need to write that here.
+Simple banner page containing information pertaining to 2143-OOP
 
 ### Files
 
@@ -17,4 +17,4 @@ This program implements a list data structure that links together nodes of integ
 
 ### Example Command
 
-- None for now.
+- None.
