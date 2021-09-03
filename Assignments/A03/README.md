@@ -8,7 +8,7 @@ This program implements a list data structure that links together nodes of integ
 
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
-|   1   | [bannerPage.txt](https://github.com/tranvex/2143-OOP-Helal/blob/main/Assignments/A03/bannerPage.txt) | Text file that contains banner . |
+|   1   | [bannerPage.txt](https://github.com/tranvex/2143-OOP-Helal/blob/main/Assignments/A03/bannerPage.txt) | Text file that contains banner. |
 
 
 ### Instructions
