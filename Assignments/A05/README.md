@@ -22,4 +22,4 @@
 
 > A class is really just a "blue print" for creating objects. For example, I have a class car that represents a car and the objects of that class are numerous types of cars.
 >
-><img src="![image](https://user-images.githubusercontent.com/89526959/143843365-57ec8bb5-03fa-49fa-8dc5-31fe06fb26ec.png)" width=500>
+><img src="https://ds055uzetaobb.cloudfront.net/brioche/uploads/pJZt3mh3Ht-prettycars.png?width=2400" width=500>
