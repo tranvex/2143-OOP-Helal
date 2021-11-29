@@ -41,6 +41,6 @@
 
 #### Encapsulation
 
-> Encapsulation Definition
+> Encapsulation is a concept in OOP that is very closely related to abstraction, but deals more with implementation rather than design. Encapsulation is all about putting your variables in their appropriate classess and packaging them with the methods that act on them. It's all about having a class with its variables and its methods that act on those variables all packaged together similar to a "capsule"
 >
-><img src="https://media.geeksforgeeks.org/wp-content/uploads/20190708153106/Variables-in-C-1.jpg" width=500>
+><img src="https://miro.medium.com/max/778/1*axAnHOiQgWtblRlyhFBCbA.jpeg" width=500>
