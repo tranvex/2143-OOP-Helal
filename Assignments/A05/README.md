@@ -74,7 +74,7 @@
 
 > Any function in a class is considered a method of that class.
 >
-><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/CPT-OOP-objects_and_classes_-_attmeth.svg/10000px-CPT-OOP-objects_and_classes_-_attmeth.svg.png" width=500>
+><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/CPT-OOP-objects_and_classes_-_attmeth.svg/1000px-CPT-OOP-objects_and_classes_-_attmeth.svg.png" width=500>
 
 #### Multiple Inheritance
 
