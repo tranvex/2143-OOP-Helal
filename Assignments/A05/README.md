@@ -34,4 +34,13 @@
 
 > Composition is usually seen being compared against inheritance. With Composition, instead of inheriting from a parent class, you create an instance of a class inside and other class and that's how you use your class. You compose an object of one class in another class, hence composition.
 >
-><img src="https://www.freeiconspng.com/uploads/no-image-icon-10.png" width=500>
+
+#### Constructor
+
+> A constructor is a function or a method in a class with the same name as the class and it's the method that runs automatically as soon as an instance of a class or an object is created. It can be overloaded using different parameter lists.
+
+#### Encapsulation
+
+> Encapsulation Definition
+>
+><img src="https://media.geeksforgeeks.org/wp-content/uploads/20190708153106/Variables-in-C-1.jpg" width=500>
