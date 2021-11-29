@@ -76,9 +76,8 @@
 >
 ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/CPT-OOP-objects_and_classes_-_attmeth.svg/1000px-CPT-OOP-objects_and_classes_-_attmeth.svg.png" width=500>
 
-#### Multiple Inheritance
+#### Object
 
-> A form of inheritance where you have two parent classess and one child class that inherits from both parents. The child class ends up having both parents' features plus its own.
+> An object is considered to be a an instance of a class.
 >
-><img src="https://media.geeksforgeeks.org/wp-content/uploads/20191222084630/multipleinh.png" width=500>
-
+><img src="https://lh3.googleusercontent.com/proxy/Wc-oejJ7EWoWE3SU0Ox8kV8VVSYUM7S9ZRUJx35AXknoAlBviXSEoXq339d3eoY4zvQlptH5pQwxzFeyTCVrQ4hnRN9sk0xFpRE" width=500>
