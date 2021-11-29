@@ -23,3 +23,15 @@
 > A class is really just a "blue print" for creating objects. For example, I have a class car that represents a car and the objects of that class are numerous types of cars.
 >
 ><img src="https://ds055uzetaobb.cloudfront.net/brioche/uploads/pJZt3mh3Ht-prettycars.png?width=2400" width=500>
+
+#### Class Variable
+
+> A class variable is just any variable that is declared within a class. It can be a local, static, or instance variable
+>
+><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20191113121956/TypesofVariableInC.png" width=500>
+
+#### Composition
+
+> Composition is usually seen being compared against inheritance. With Composition, instead of inheriting from a parent class, you create an instance of a class inside and other class and that's how you use your class. You compose an object of one class in another class, hence composition.
+>
+><img src="https://www.archgard.com/assets/upload_fallbacks/image_not_found-54bf2d65c203b1e48fea1951497d4f689907afe3037d02a02dcde5775746765c.png width=500>
