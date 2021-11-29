@@ -28,7 +28,7 @@
 
 > A class variable is just any variable that is declared within a class. It can be a local, static, or instance variable
 >
-><img src="https://media.geeksforgeeks.org/wp-content/uploads/20190708153106/Variables-in-C-1.jpg" width=500>
+><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20191113121956/TypesofVariableInC.png" width=500>
 
 #### Composition
 
