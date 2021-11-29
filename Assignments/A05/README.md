@@ -99,8 +99,22 @@
 #### Public / Private / Protected
 
 > Different access specifiers used in classes to protect your class variables.
->Private: Only Friends and the class itself can access those variables and methods.
+> Private: Only Friends and the class itself can access those variables and methods.
 > Protected: Only Friends, derived classes, and the class itself can access those variables and methods.
 > Public: Everybody and the class itself can access those variables. Absolutely no protection.
 >
 ><img src="https://beeimg.com/images/a54379718832.png" width=500>
+
+#### Static
+
+> The static keyword causes a variable in a class to be shared by all instances of that class instead of each instances having a copy of a normal variable, static causes a particular variable to become shared by all instances meaning the variable will be the same for each instance
+>
+><img src="https://www.baeldung.com/wp-content/uploads/2017/10/Static_variables_shared_in_Java_1-1.jpg" width=500>
+
+
+
+#### Virtual
+
+> Virtual definition
+>
+><img src="https://www.baeldung.com/wp-content/uploads/2017/10/Static_variables_shared_in_Java_1-1.jpg" width=500>
