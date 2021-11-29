@@ -41,6 +41,17 @@
 
 #### Encapsulation
 
-> Encapsulation is a concept in OOP that is very closely related to abstraction, but deals more with implementation rather than design. Encapsulation is all about putting your variables in their appropriate classess and packaging them with the methods that act on them. It's all about having a class with its variables and its methods that act on those variables all packaged together similar to a "capsule"
+> Encapsulation is a concept in OOP that is very closely related to abstraction, but deals more with implementation rather than design. Encapsulation is all about putting your variables in their appropriate classess and packaging them with the methods that act on them. It's all about having a class with its variables and its methods that act on those variables all packaged together similar to a "capsule."
 >
 ><img src="https://miro.medium.com/max/778/1*axAnHOiQgWtblRlyhFBCbA.jpeg" width=500>
+
+
+#### Friends
+
+> Friends is a little trick that OOP programmers will use and all it does is basically allow a function or a whole class, depends on what you make a friend, to access the private and protected data members of any given class as if that function was a member of function of the class whose privates are going to be accessed. You can also make a whole class a friend and allow it to access the privates and protecteds of any given class, just declare it as a friend in the body of the class whose privates and protecteds you want to access.
+
+#### Inheritance
+
+> A class variable is just any variable that is declared within a class. It can be a local, static, or instance variable
+>
+><img src="https://media.geeksforgeeks.org/wp-content/uploads/20190708153106/Variables-in-C-1.jpg" width=500>
