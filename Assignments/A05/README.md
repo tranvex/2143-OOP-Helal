@@ -12,8 +12,6 @@
 >
 ><img src="https://cdn.journaldev.com/wp-content/uploads/2019/09/process-abstraction-1024x737.png" width=500>
 
-
-
 #### Attributes / Properties
 
 > Attributes and properties are basically the same thing. These are considered to be the data members in a class that make it unique and separate from other classes. For example, some attributes or properties of a person would be their name, age, and height. Speaking and eating can be considered behaviors or methods of the class
