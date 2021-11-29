@@ -88,3 +88,10 @@
 > Allows you to write more than one function with the same name in the same scope, as long as they have different parameter lists.
 >
 ><img src="https://simplesnippets.tech/wp-content/uploads/2018/03/function-overloading-in-cpp-1280x720.png" width=500>
+
+#### Polymorphism
+
+> Polymorphism at its root means "many forms". Polymorphism describes the idea that you can use a lot of different classess and they can all have the same functions, but each class has its own different implementation suited to its needs for each function. In a way, it gives you many ways to do one thing.
+>
+><img src="https://media.geeksforgeeks.org/wp-content/uploads/20190705113259/Polymorphism-1.jpg" width=500>
+>><img src="https://javatutorial.net/wp-content/uploads/2017/10/java-polymorphism-featured-image-1280x720.png" width=500>
