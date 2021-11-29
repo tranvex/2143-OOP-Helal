@@ -28,7 +28,7 @@
 
 > A class variable is just any variable that is declared within a class. It can be a local, static, or instance variable
 >
-><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20191113121956/TypesofVariableInC.png" width=500>
+><img src="https://www.archgard.com/assets/upload_fallbacks/image_not_found-54bf2d65c203b1e48fea1951497d4f689907afe3037d02a02dcde5775746765c.png" width=500>
 
 #### Composition
 
