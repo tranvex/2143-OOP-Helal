@@ -87,4 +87,4 @@
 
 > Allows you to write more than one function with the same name in the same scope, as long as they have different parameter lists.
 >
-><img src="https://lh3.googleusercontent.com/proxy/Wc-oejJ7EWoWE3SU0Ox8kV8VVSYUM7S9ZRUJx35AXknoAlBviXSEoXq339d3eoY4zvQlptH5pQwxzFeyTCVrQ4hnRN9sk0xFpRE" width=500>
+><img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/mov.png" width=500>
