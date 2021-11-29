@@ -55,3 +55,23 @@
 > Inheritance is a major concept in OOP that deals with having one class, a child class, inherit public and protected members from another class, the parent class, and using those variables as its own. Inheritance is mostly used when two objects have an IS A relationship as shown in the diagram below. Inheritance also makes your code easier to read since it saves some lines of code, less room for mistakes, and more organized.
 >
 ><img src="https://miro.medium.com/max/875/1*CaTNbDiboMzEXuBB2AaDjg.png" width=500>
+
+#### Instance Variable
+
+> A type of class variable. Simply a regular variable in a class. Called an instance variable because every instance of a class or object has a separate copy.
+>
+><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20191113121956/TypesofVariableInC.png" width=500>
+
+
+#### Member Variable
+
+> A type of class variable. Any variable that belongs to a class is called a member variable.
+>
+><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20191113121956/TypesofVariableInC.png" width=500>
+
+
+#### Method
+
+> Any function in a class is considered a method of that class.
+>
+><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/CPT-OOP-objects_and_classes_-_attmeth.svg/10000px-CPT-OOP-objects_and_classes_-_attmeth.svg.png" width=500>
