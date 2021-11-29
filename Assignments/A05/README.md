@@ -52,6 +52,6 @@
 
 #### Inheritance
 
-> A class variable is just any variable that is declared within a class. It can be a local, static, or instance variable
+> Inheritance is a major concept in OOP that deals with having one class, a child class, inherit public and protected members from another class, the parent class, and using those variables as its own. Inheritance is mostly used when two objects have an IS A relationship as shown in the diagram below. Inheritance also makes your code easier to read since it saves some lines of code, less room for mistakes, and more organized.
 >
-><img src="https://media.geeksforgeeks.org/wp-content/uploads/20190708153106/Variables-in-C-1.jpg" width=500>
+><img src="https://miro.medium.com/max/875/1*CaTNbDiboMzEXuBB2AaDjg.png" width=500>
