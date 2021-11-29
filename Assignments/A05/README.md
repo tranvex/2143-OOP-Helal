@@ -99,7 +99,7 @@
 #### Public / Private / Protected
 
 > Different access specifiers used in classes to protect your class variables.
-> Private: Only Friends and the class itself can access those variables and methods
+>Private: Only Friends and the class itself can access those variables and methods.
 > Protected: Only Friends, derived classes, and the class itself can access those variables and methods.
 > Public: Everybody and the class itself can access those variables. Absolutely no protection.
 >
