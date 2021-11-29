@@ -14,6 +14,12 @@
 
 #### Attributes / Properties
 
-> Attributes and properties are basically the same thing. These are considered to be the data members in a class that make it unique and separate from other classes. For example, some attributes or properties of a person would be their name, age, and height. Speaking and eating can be considered behaviors or methods of the class
+> Attributes and properties are basically the same thing. These are considered to be the data members in a class that make it unique and separate from other classes. For example, some attributes or properties of a person would be their name, age, and height. Speaking and eating can be considered behaviors or methods of the class.
 >
 ><img src="https://www.oreilly.com/library/view/hands-on-object-oriented-programming/9781789617726/assets/25c48d63-51cf-4aac-b1dc-1a449d41f7b1.png" width=500>
+
+#### Class
+
+> A class is really just a "blue print" for creating objects. For example, I have a class car that represents a car and the objects of that class are numerous types of cars.
+>
+><img src="![image](https://user-images.githubusercontent.com/89526959/143843365-57ec8bb5-03fa-49fa-8dc5-31fe06fb26ec.png)" width=500>
