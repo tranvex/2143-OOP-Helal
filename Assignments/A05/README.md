@@ -75,3 +75,10 @@
 > Any function in a class is considered a method of that class.
 >
 ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/CPT-OOP-objects_and_classes_-_attmeth.svg/10000px-CPT-OOP-objects_and_classes_-_attmeth.svg.png" width=500>
+
+#### Multiple Inheritance
+
+> A form of inheritance where you have two parent classess and one child class that inherits from both parents. The child class ends up having both parents' features plus its own.
+>
+><img src="https://media.geeksforgeeks.org/wp-content/uploads/20191222084630/multipleinh.png" width=500>
+
