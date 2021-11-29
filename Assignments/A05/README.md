@@ -95,3 +95,12 @@
 >
 ><img src="https://media.geeksforgeeks.org/wp-content/uploads/20190705113259/Polymorphism-1.jpg" width=500>
 >><img src="https://javatutorial.net/wp-content/uploads/2017/10/java-polymorphism-featured-image-1280x720.png" width=500>
+
+#### Public / Private / Protected
+
+> Different access specifiers used in classes to protect your class variables.
+> Private: Only Friends and the class itself can access those variables and methods
+> Protected: Only Friends, derived classes, and the class itself can access those variables and methods.
+> Public: Everybody and the class itself can access those variables. Absolutely no protection.
+>
+><img src="https://beeimg.com/images/a54379718832.png" width=500>
