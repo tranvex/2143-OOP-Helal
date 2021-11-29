@@ -10,5 +10,5 @@
 
 > Abtraction is all about how we design our class and the main goal really out of abstraction is to just design our code in a way where the end user has a simple interface that's easy to use and that's all they have to worry about. All the internal workings and complicated parts of a class are tucked inside the class and the user doesn't have to worry about understanding them. Similar to a coffee maker. You know how to use it and make use of the simplicity it provides without needing to worry about what goes on inside to make your coffee.
 >
-><img src="https://cdn.journaldev.com/wp-content/uploads/2019/09/process-abstraction-1024x737.png" width=250>
+><img src="https://cdn.journaldev.com/wp-content/uploads/2019/09/process-abstraction-1024x737.png" width=500>
 
