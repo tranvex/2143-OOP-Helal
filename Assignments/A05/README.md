@@ -3,6 +3,7 @@
 - Name: Yoseph Helal
 - Date: 29 Nov 2021
 - Class: 2143 OOP
+- Also, see wiki
 
 ## Definitions
 
@@ -118,3 +119,23 @@
 > Virtual is a keyword in C++ and at its core it's like a contract saying: This method in this base class will be overridden later in a derived class. It allows for runtime polymorphism.
 >
 ><img src="https://i.ibb.co/ZHJ609h/output-onlinepngtools.png" width=500>
+
+### Sources
+
+> https://stackify.com/oop-concept-abstraction/
+
+> https://www.oreilly.com/library/view/hands-on-object-oriented-programming/9781789617726/ca7ee1ce-8d09-4e97-a220-feb6c10efd10.xhtml
+
+> https://brilliant.org/wiki/classes-oop/
+
+> https://www.geeksforgeeks.org/variables-in-c/
+
+> https://stackify.com/oop-concepts-composition/
+
+> https://www.geeksforgeeks.org/constructors-c/
+
+> https://stackify.com/oop-concept-for-beginners-what-is-encapsulation/
+
+> https://www.geeksforgeeks.org/friend-class-function-cpp/
+
+> https://www.c-sharpcorner.com/interview-question/what-is-virtual-keyword
