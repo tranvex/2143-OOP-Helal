@@ -115,6 +115,6 @@
 
 #### Virtual
 
-> Virtual definition
+> Virtual is a keyword in C++ and at its core it's like a contract saying: This method in this base class will be overridden later in a derived class. It allows for runtime polymorphism.
 >
-><img src="https://www.baeldung.com/wp-content/uploads/2017/10/Static_variables_shared_in_Java_1-1.jpg" width=500>
+><img src="https://cdn.programiz.com/sites/tutorial2program/files/cpp-virtual-function.png" width=500>
